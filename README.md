@@ -18,7 +18,7 @@ A simple one-page website template with a responsive design and lightbox gallery
 
 ## Preview
 
-![Website Preview](preview.png)
+![Website Preview](/img/4.jpg)
 
 ## Usage
 
